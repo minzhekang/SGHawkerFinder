@@ -1,10 +1,9 @@
 # [SGHawkerFinder🍜🤖](https://t.me/SGHawkerFinder_bot)
-![hawkerbotpic](https://github.com/user-attachments/assets/58e2fca1-7248-4878-9821-8d8b256d1275)
-
+![hawkerbotpic](https://github.com/user-attachments/assets/5dc7d48c-83e9-4185-bdaa-d39e99273bc1)
 
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/8f7036a5-ddd9-4e72-ab45-1230b16e8967" width="45%" />
-  <img src="https://github.com/user-attachments/assets/f834c92f-fd8e-4fd6-a26e-a861138a310a" width="45%" />
+  <img src="https://github.com/user-attachments/assets/07354981-c510-4122-88f2-9572959067af" width="45%" />
+  <img src="https://github.com/user-attachments/assets/9e54a1ee-f1f3-4bc5-ab91-bf4410edb3ea" width="45%" />
 </p>
 
 **SGHawkerBot**, a simple telegram bot that helps you discover great hawker food options around Singapore! 🇸🇬
