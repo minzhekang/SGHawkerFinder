@@ -1,0 +1,4 @@
+configparser
+python-telegram-bot
+pymysql
+aiolimiter
